@@ -4,4 +4,6 @@ Implementation of hamiltonian monte carlo in python to estimate cosmological par
 
 **Problem is given here https://www.imperial.ac.uk/media/imperial-college/research-centres-and-groups/astrophysics/public/icic/data-analysis-workshop/2016/SN-MCMC-project-2016_1.pdf** 
 
+A visual representation of energies are given for better explaination of how the algorithm works.
+
 Data files needed are uploaded as well
